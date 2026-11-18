@@ -1,6 +1,6 @@
 // ---------- Product data ----------
 const products = [
-  { name: "Trail 29er", category: "mountain",    price: 18500, emoji: "🚵" },
+  { name: "TrailBlazer 29er", category: "mountain",    price: 18500, emoji: "🚵" },
   { name: "Rockhopper X",     category: "mountain",    price: 22900, emoji: "⛰️" },
   { name: "Velocity Road Pro", category: "road",       price: 27500, emoji: "🚴" },
   { name: "Aero Speed 700",   category: "road",        price: 31000, emoji: "🏁" },
